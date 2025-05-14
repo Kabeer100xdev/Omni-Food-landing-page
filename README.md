@@ -49,9 +49,9 @@ style.css – Styling rules and media queries
 Kabeer Soni
 📍 Chhatarpur, Madhya Pradesh
 
-LinkedIn
+LinkedIn - [https://www.linkedin.com/in/kabeer-soni-339958325/]
 
-GitHub
+GitHub - [https://github.com/Kabeer100xdev]
 
 📜 License
 This project is open-sourced under the MIT License.
